@@ -1,0 +1,23 @@
+.same {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 167, 167);rgb(255, 167, 167);
+}
+
+#numb2 {
+    color:rgb(30, 144, 255);
+    font-size: 36px;
+    /*font-weight: bold;*/
+}
+
+.numb3 {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color:rgb(255, 167, 167);
+    font-size: 24px;
+}
+
+#numb4 {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
