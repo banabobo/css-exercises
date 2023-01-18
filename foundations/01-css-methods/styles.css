@@ -1,0 +1,12 @@
+div {
+    /* set background-color to fit entire widht*/
+    display:inline;
+    background-color: red; /* font color*/
+     font-size: 32px; /* size*/
+    font-weight: bold; /* bold*/
+    color: white; /* font color*/
+    text-align: center; /*text alignment*/
+   
+    
+    
+}
